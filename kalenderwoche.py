@@ -1,10 +1,10 @@
-#!/usr/bin/env python3
-"""kalenderwoche.py
+"""
+kalenderwoche
 
 Usage:
-    ./kalenderwoche.py
-    ./kalenderwoche.py --date <date>
-    ./kalenderwoche.py -h|--help
+    kalenderwoche
+    kalenderwoche --date <date>
+    kalenderwoche -h|--help
 Options:
     <date> An optional date (e.g. 2021-01-01)
     -h --help  Show this screen.
