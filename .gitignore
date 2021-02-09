@@ -5,3 +5,10 @@
 
 # venv
 venv
+
+# build
+build
+dist
+kalenderwoche.egg-info
+
+*.snap

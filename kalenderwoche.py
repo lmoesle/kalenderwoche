@@ -1,4 +1,6 @@
+#!/usr/bin/env python3
 """kalenderwoche.py
+
 Usage:
     ./kalenderwoche.py
     ./kalenderwoche.py --date <date>
