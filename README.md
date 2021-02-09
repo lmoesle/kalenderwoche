@@ -1,5 +1,7 @@
 # kalenderwoche
 
+[![kalenderwoche](https://snapcraft.io/kalenderwoche/badge.svg)](https://snapcraft.io/kalenderwoche)
+
 > Finde die kalenderwoche für ein bestimmtes Datum heraus.
 
 ## Install
@@ -8,7 +10,7 @@
 sudo snap install kalenderwoche
 ```
 
-See [https://snapcraft.io/kalenderwoche](https://snapcraft.io/kalenderwoche)
+[![Installieren vom Snap Store](https://snapcraft.io/static/images/badges/de/snap-store-white.svg)](https://snapcraft.io/kalenderwoche)
 
 ## Usage
 
